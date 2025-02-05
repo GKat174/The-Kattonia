@@ -29,7 +29,7 @@
 
 		"outerColor": [17,119,68],
 		"innerColor": [119,17,68],
-		"uniques": ["[+1 Science] for every known Natural Wonder", "[50]% of excess happiness converted to [Science]","[10]% [Science] from City-States <after discovering [Writing]>", "May buy [All] buildings with [Science] [in all cities]", "May buy [All] units with [Science] [in all cities]"]
+		"uniques": ["[+1 Science] for every known Natural Wonder", "[+50]% of excess happiness converted to [Science]","Allied City-States provide [Science] equal to [+50]% of what they produce for themselves <after discovering [Writing]>", "May buy [All] buildings with [Science] for [2] times their normal Production cost", "May buy [All] units with [Science] for [1] times their normal Production cost", "[-20]% City-State Influence degradation", "[-200]% [Production]", "[+300]% Production when constructing [All] wonders [in all cities]", "[+33]% Food is carried over after population increases [in all cities]<upon entering a new era>","[-100]% Gold cost of upgrading"]
 		"cities": ["The Kattonia","Kattiano","Kattos","Katria","Kateona","Kattive","Katnigo","Katwella","Katson",
 			"Kattioso","Katropia","Katscreniw","Kattewab","Katvaike","Katkanne","Katsobbi","Kattiun","Katwildeto","Katteto",
 			"Katteinoe","Katterien","Kattomoni","Kattakat","Kattebala","Kattoivi","Katrenimolo","Kattei","Katlomis","Katmogina",
